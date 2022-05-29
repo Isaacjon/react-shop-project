@@ -1,13 +1,3 @@
-/* body {
-  background: #1da1f2;
-  color: #fff;
-} */
-
-/* button {
-  border: none;
-  border-radius: 10px;
-  margin: 5px;
-} */
 
 nav {
   padding: 0 1rem;
@@ -49,8 +39,6 @@ nav {
   bottom: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.5);
-  /* pointer-events: none; */
-
 }
 
 .basket-list {
@@ -108,7 +96,6 @@ nav {
   display: flex;
   align-items: center;
 }
-
 
 @keyframes show {
   from {
